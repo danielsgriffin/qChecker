@@ -14,3 +14,4 @@ Prints a match % and colored diff per quotation.
 ## Note 
 
 - Only tested on MacOS.
+- See a small post on my website: [qChecker - a script to check for quotes in a source document](https://danielsgriffin.com/pposts/2023/10/25/qchecker-a-script-to-check-for-quotes-in-a-source-document.html)
